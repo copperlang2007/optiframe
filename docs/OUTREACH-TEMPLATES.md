@@ -1,0 +1,1 @@
+See file content from previous write_file
