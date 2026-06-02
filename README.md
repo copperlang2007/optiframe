@@ -1,2 +1,5 @@
-# optiframe
-OptiFrame - AI-powered iPhone camera that autonomously captures the perfect family photo. On-device ML, PWA + native iOS (Capacitor), production-ready with moats for defensibility. Built to principal engineering standards.
+OptiFrame
+
+AI-powered iPhone camera that autonomously captures the perfect family photo every time.
+
+See full details in the founder briefing and moats documentation.
